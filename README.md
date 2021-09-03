@@ -4,4 +4,4 @@
 
 ![GitHubGW's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubGW&theme=graywhite&show_icons=true&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubGW&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubGW&layout=compact&hide=HTML,CSS,SCSS,PUG)
